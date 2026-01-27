@@ -1,4 +1,4 @@
-package Coding_Exam;
+package coding_Exam11Jan;
 
 public class code13_Continue_Statement {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Coding_Exam;
+package coding_Exam11Jan;
 
 import java.util.Scanner;
 

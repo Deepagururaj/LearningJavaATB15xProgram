@@ -1,4 +1,4 @@
-package Coding_Exam;
+package coding_Exam11Jan;
 
 public class code12_Break_Statement {
     public static void main(String[] args) {
