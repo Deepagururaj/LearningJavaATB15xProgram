@@ -1,4 +1,4 @@
-package Coding_Exam;
+package coding_Exam11Jan;
 
 public class Code1_Arithmetic_Operations {
     public static void main(String[] args) {
