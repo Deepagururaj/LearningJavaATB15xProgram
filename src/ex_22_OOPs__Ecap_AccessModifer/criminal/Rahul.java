@@ -2,7 +2,7 @@ package ex_22_OOPs__Ecap_AccessModifer.criminal;
 
 import ex_22_OOPs__Ecap_AccessModifer.police.Cop;
 
-public class Rahul extends cop {
+public class Rahul extends Cop {
     public Rahul(int bullet) {
         super(bullet);
     }
