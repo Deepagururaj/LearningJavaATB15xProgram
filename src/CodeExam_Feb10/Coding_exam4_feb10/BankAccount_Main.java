@@ -1,4 +1,4 @@
-package Coding_exam4_feb10;
+package CodeExam_Feb10.Coding_exam4_feb10;
 
 public class BankAccount_Main {
     public static void main(String[] args) {

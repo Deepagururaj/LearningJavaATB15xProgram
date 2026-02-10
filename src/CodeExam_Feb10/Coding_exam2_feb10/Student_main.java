@@ -1,4 +1,4 @@
-package Coding_exam2_feb10;
+package CodeExam_Feb10.Coding_exam2_feb10;
 
 public class Student_main {
     public static void main(String[] args) {

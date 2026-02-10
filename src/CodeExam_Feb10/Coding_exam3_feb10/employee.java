@@ -1,4 +1,4 @@
-package Coding_exam3_feb10;
+package CodeExam_Feb10.Coding_exam3_feb10;
 
 public class employee {
     private int id;

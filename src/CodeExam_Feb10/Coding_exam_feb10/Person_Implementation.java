@@ -1,4 +1,4 @@
-package Coding_exam_feb10;
+package CodeExam_Feb10.Coding_exam_feb10;
 
 public class Person_Implementation {
     private String name;
